@@ -1,0 +1,95 @@
+TIP DEL PROFE
+
+<h4><span class="element_toggler btn btn-primary" style="font-style: italic; font-weight: bold; font-size: 20px; margin-left: 40px;" role="button" aria-controls="tip-verbos" aria-label="Toggler toggle list visibility" aria-expanded="false"><i class="icon-star"></i> Tip del profe</span></h4>
+<ul id="tip-verbos" class="border border-trbl border-round" style="list-style: none; display: none; background: white; padding: 20px 20px 20px; margin-top: -25px; max-width: 600px;">
+   <li>
+      <h4><strong>Titulo del tip</strong></h4>
+      <p>Contenido del tip</p>
+   </li>
+</ul>
+
+ACORDEON
+
+<div class="item-group" style="background: #E8E9E8;">
+   <div class="ig-header">
+      <h2 class="ig-header-title element_toggler" style="font-size: 20px;" aria-controls="group_5" aria-expanded="false"><i class="icon-mini-arrow-down"></i><strong>Titulo</strong></h2>
+   </div>
+   <ul id="group_5" style="list-style: none; display: none;">
+   <p><span style="font-weight: 400;">texto</span></p>
+</div>
+  
+CAJA CON VIDEO
+  
+<div class="content-box pad-box-mini border border-trbl border-round" style="background: #16A7C6; display: inline-block; margin-right: 10px; padding: 0px; max-width: 300px;">
+   <h4 style="padding: 0 10px; color: #fff; line-height: 18px; margin: 10px;"><i class="icon-video"></i> <strong>Titulo de la caja</strong></h4>
+   <iframe src="https://www.youtube.com/embed/s5l7nQhA0WY?showinfo=0" width="300" allowfullscreen="allowfullscreen" allow="autoplay; encrypted-media"></iframe>
+   <div style="padding: 15px; font-size: 0.8em; background: #fff; margin: -10px 0 0 0;">Pie del video</div>
+</div>
+
+  
+LABEL
+  
+<div class="content-box pad-box-mini border border-trbl border-round" style="background: #dceaec; border: 1px solid #16A7C6; color: #17a7c6; font-weight: bold;">
+   <table>
+      <tbody>
+         <tr>
+            <td><i class="icon-document"></i> <a href="https://google.com/"> Titulo del enlace &rarr;</a></td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+  
+TABLA CON IMAGEN Y PIE DE FOTO
+  
+<table style="border: #C7CDD1 1px solid; background: white;">
+   <tbody>
+      <tr>
+         <td style="padding: 10px;"><img src="https://icesi.instructure.com/courses/87/files/5058/preview" alt="" width="800" height="573" data-api-endpoint="https://icesi.instructure.com/api/v1/courses/87/files/5058" data-api-returntype="File" /></td>
+      </tr>
+      <tr>
+         <td style="background: #7c7c7c; color: #fff; padding: 10px;">Pie de foto - <a style="color: #fff;" href="http://www.google.com">Texto del enlace &rarr;</a></td>
+      </tr>
+   </tbody>
+</table>
+  
+VIDEO COMENTADO
+  
+<div class="content-box pad-box-mini border border-trbl border-round" style="background: #16A7C6; display: inline-block; margin-right: 10px; padding: 0px; width: 100%;">
+   <h4 style="padding: 0 10px; color: #fff; line-height: 18px; margin: 10px;"><i class="icon-video"></i> <strong>Titulo</strong></h4>
+   <iframe src="https://ant.umn.edu/embedded/jcdnmvmxek" width="100%" height="505px"></iframe>
+</div>
+
+POP UP
+  
+<div id="dialog_for_Loma_Linda_University" class="enhanceable_content dialog">
+   <!.. Begin Dialog Box Content ..>
+   <strong>Titulo del contenido del pop-up </strong> Texto del pop-up.
+   <a href="https://www.gooogle.com">texto de enlace</a>
+</div>
+<!.. End of content..>
+<p><a id="link1" class="Button" href="#dialog_for_Loma_Linda_University">Boton del pop-up</a></p>
+</p></div>
+
+POP UP IMAGEN
+
+<a href="#popup-vision1">Boton</a></p>
+
+<div id="popup-vision1" class="enhanceable_content dialog">
+
+    <img src="https://icesi.instructure.com/courses/87/files/3708/preview" alt="" width="100%" data-api-endpoint="https://icesi.instructure.com/courses/87/files/3708" data-api-returntype="File" style="max-width: 1235px;"></div>
+
+ACORDEON SENCILLO
+
+<span
+      class="element_toggler"
+      aria-controls="group_1"
+      aria-expanded="true"
+      aria-label="Toggler toggle list visibility"
+      role="button"
+      >
+    <i class="icon-mini-arrow-down"></i> Boton
+</span>
+<ul id="group_1">
+    <li>Información interna</li>
+    <li>Información interna</li>
+</ul>
