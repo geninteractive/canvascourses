@@ -8,6 +8,27 @@ TIP DEL PROFE
    </li>
 </ul>
 
+TIP DEL PROFE CON FOTO
+
+<div style="position: relative; margin: 1.5em 0;">
+   <h4><span class="element_toggler btn btn-primary" style="font-style: italic; font-weight: bold; font-size: 20px; margin-left: 40px;" role="button" aria-controls="tip-verbos" aria-label="Toggler toggle list visibility" aria-expanded="false"><i class="icon-star"></i> Tip del profe</span></h4>
+   <ul id="tip-verbos" class="border border-trbl border-round" style="list-style: none; display: none; background: white; padding: 20px 20px 20px; margin-top: -25px; max-width: 600px;">
+      <li>
+         <h4><strong>Planteen sus necesidades con verbos.</strong></h4>
+         <p>Ejemplos:</p>
+         <ul>
+            <li><strong><em>Promover</em></strong> el pensamiento critico en los estudiantes</li>
+            <li><strong><em>Mejorar</em></strong> la participaci&oacute;n de los estudiantes en las actividades de clase</li>
+            <li><strong><em>Desarrollar</em></strong> el habito de lectura en los estudiantes</li>
+         </ul>
+      </li>
+   </ul>
+   <div class="ic-image-text-combo" style="position: absolute; top: -6px;">
+      <div class="ic-avatar"><img src="https://icesi.instructure.com/courses/87/files/3652/preview" alt="Profile image" width="48" data-api-endpoint="https://icesi.instructure.com/api/v1/courses/87/files/3652" data-api-returntype="File" /></div>
+   </div>
+</div>
+</div>
+
 ACORDEON
 
 <div class="item-group" style="background: #E8E9E8;">
